@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+    height: auto;
+    
+   
+}
+body{
+    background-image: url("https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat
+}
+
+#body-part{
+    padding: 25px;
+    margin-left: 2rem;
+    margin-top: 70px;
+}
+#body-part h1{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: 'Bebas Neue', sans-serif;
+}
+#body-part p{
+    font-family: 'Ephesis', cursive;
+    color: antiquewhite;
+    font-weight: bolder;
+
+}
+.buttons{
+    margin-top: 20px;
+}
+#btn1{
+    background-color: #7ED7C1;
+    padding: 6px;
+    border: none;color: antiquewhite;
+    width: 80px;
+    border-radius: 5px;
+}
+#btn2{
+    
+    padding: 6px;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+}
